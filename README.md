@@ -41,32 +41,13 @@ I enjoy transforming business requirements into **clean, functional software sol
 #### Databases
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40"/>
 </p>
 
 #### ERP Systems
 <p>
   <img src="https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=erpnext&logoColor=white"/>
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-- **Kanban Web System**  
-  Task and workflow management system based on Kanban methodology.  
-  `React • Python • PostgreSQL`
-
-- **ERP Customizations (Odoo / ERPNext)**  
-  Custom modules for inventory, sales, reporting, and business workflows.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmanzanares12&show_icons=true&theme=dark" />
 </p>
 
 ---
