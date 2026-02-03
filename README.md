@@ -24,9 +24,6 @@ with experience building **scalable and maintainable applications** using moder 
 - ERPNext
 - Odoo
 
-*** Github stats
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmanzanares12&show_icons=true&theme=dark)
-
 ### Contact
 - jmanzanaresg27@gmail.com
 - Masaya, Nicaragua
