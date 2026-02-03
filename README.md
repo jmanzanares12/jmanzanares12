@@ -1,9 +1,32 @@
-Hello, I'm Jorge! 👋
 
-Welcome to my GitHub profile. I'm passionate about web development and I love creating creative and innovative solutions for technological challenges. I'm always seeking to learn new technologies and improve my skills.
+## Hello, I'm Jorge Manzanares Gaitán
+**Software Engineer | Web Developer | ERP & Business Sytems**
 
-💻 Technologies and Skills Programming Languages: HTML, CSS, JavaScript and Python. Frameworks and Libraries: React, Odoo. Databases: PostgreSQL. Version Control Tools: Git, GitHub.
+Welcome to my GitHub profile. 
+**I'm a Software Engineer focused on web development and busisness systems**,
+with experience building **scalable and maintainable applications** using moder technologies and ERP plantforms.
 
-📫 Contact If you're interested in collaborating on exciting projects or just want to say hello, you can reach me through the following channels: Email: manzanares.jorge.jm@gmail.com or jmanzanares@riverabi.onmicrosoft.com
+### Tech stack
 
-🙌 Thank you for visiting my profile Thank you for taking the time to visit my GitHub profile! I hope you find my projects interesting and useful. If you have any suggestions or comments, please don't hesitate to let me know. Enjoy your day!
+**Frontend**
+- HMTL5, CSS3, JavaScript
+- React.js
+
+**Backend**
+- Python
+- Node.js, Express.js
+
+**Databases**
+- PostgreSQL
+- MariaDB
+
+**ERP Systems**
+- ERPNext
+- Odoo
+
+*** Github stats
+![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmanzanares12&show_icons=true&theme=dark)
+
+### Contact
+- jmanzanaresg27@gmail.com
+- Masaya, Nicaragua
