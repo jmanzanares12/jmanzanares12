@@ -39,8 +39,9 @@ I am a **Software Engineer** dedicated to engineering scalable web applications 
 ### GitHub Stats
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmanzanares12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmanzanares12&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmanzanares12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmanzanares12&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&cache_seconds=1800" />
 </p>
 
 ---
