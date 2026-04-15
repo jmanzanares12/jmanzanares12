@@ -1,59 +1,57 @@
-<h1 align="center">👋 Hi, I'm Jorge Manzanares Gaitán</h1>
+# Hi, I'm Jorge Manzanares Gaitán
 
-<p align="center">
-  <strong>Software Engineer | Web Developer | ERP & Business Systems</strong>
-</p>
+### **Software Engineer | Full-stack Developer | ERP & Systems Specialist**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Nicaragua-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/ERP-ERPNext-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/ERP-Odoo-purple?style=flat-square" />
+---
+
+### About Me
+
+I am a **Software Engineer** dedicated to engineering scalable web applications and optimizing business processes through technology. With a strong background in **ERP implementation (ERPNext/Odoo)** and modern web frameworks, I bridge the gap between complex business requirements and clean, high-performance software solutions.
+
+* Currently focusing on **Digital Craftsmanship** with Astro and React.
+* Specialist in **Systems Administration** and ERP ecosystem integration.
+* Passionate about **Minimalist UI/UX** and performance optimization.
+
+---
+
+### Tech Stack
+
+#### **Frontend & Design**
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+
+#### **Backend & Infrastructure**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+#### **ERP & Business Systems**
+![ERPNext](https://img.shields.io/badge/ERPNext-E11D48?style=flat-square&logo=frappe&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmanzanares12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmanzanares12&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🧠 About Me
+### Contact & Location
 
-Software Engineer focused on **web development and business systems**, with experience building  
-**scalable, maintainable applications** using modern technologies and **ERP platforms**.
-
-I enjoy transforming business requirements into **clean, functional software solutions**.
-
----
-
-### 🛠️ Tech Stack
-
-#### Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-</p>
-
-#### Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-</p>
-
-#### Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40"/>
-</p>
-
-#### ERP Systems
-<p>
-  <img src="https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=erpnext&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-</p>
+* **Email:** jmanzanares27@gmail.com
+* **Location:** Masaya, Nicaragua 🇳🇮
+* **LinkedIn:** [linkedin.com/in/jmanzanares12](https://www.linkedin.com/in/jmanzanares12) (Asegúrate de que este link sea el correcto)
 
 ---
 
-### 📫 Contact
-
-- 📧 **Email:** jmanzanares27@gmail.com  
-- 📍 **Location:** Masaya, Nicaragua
+> "Transforming business logic into high-performance digital experiences."
