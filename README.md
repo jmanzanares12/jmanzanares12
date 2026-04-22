@@ -50,7 +50,7 @@ I am a **Software Engineer** dedicated to engineering scalable web applications 
 
 * **Email:** jmanzanaresg27@gmail.com
 * **Location:** Masaya, Nicaragua 🇳🇮
-* **LinkedIn:** [linkedin.com/in/jmanzanares12](https://www.linkedin.com/in/jorge-manzanares-30b63223a/) (Asegúrate de que este link sea el correcto)
+* **LinkedIn:** [linkedin.com/in/jmanzanares12](https://www.linkedin.com/in/jorge-manzanares-30b63223a/)
 
 ---
 
